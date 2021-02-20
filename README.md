@@ -1,0 +1,2 @@
+# Rye
+Simple discord bot
